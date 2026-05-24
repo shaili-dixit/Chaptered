@@ -162,22 +162,16 @@ git push origin feature/your-feature
 
 Then open a Pull Request 🚀
 
-Contribution Guidelines
-Use TypeScript
-Follow existing structure
-Keep functions small
-Write clear commit messages
+Contribution Guidelines: 
+1. Use TypeScript
+2. Follow existing structure
+3. Keep functions small
+4. Write clear commit messages
+
 🐛 Issues & Support
 Open an issue for bugs
 Use discussions for ideas
 Include reproduction steps
-📊 Project Highlights
-⚡ Built in 7 days
-🧱 ~4500 lines of code
-🔗 20+ API endpoints
-🧠 Real-time features with Socket.io
-🔒 Secure authentication system
-📄 License
 
 MIT License
 
