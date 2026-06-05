@@ -124,8 +124,8 @@ When we do start writing code, we'll follow these principles:
 
 ## 🐛 Issues & Discussions
 
-- **Have an idea?** → Open a [GitHub Discussion](https://github.com/yourusername/chaptered/discussions)
-- **Found a problem or want to propose something specific?** → Open an [Issue](https://github.com/yourusername/chaptered/issues)
+- **Have an idea?** → Open a [GitHub Discussion](https://github.com/vanshika114/Chaptered/discussions)
+- **Found a problem or want to propose something specific?** → Open an [Issue](https://github.com/vanshika114/Chaptered/issues)
 - **Not sure where to start?** → Say hi in Discussions — we'll help point you in the right direction
 
 ---
